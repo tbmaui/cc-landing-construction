@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 400" width="480" height="400" fill="none" stroke-linecap="round" stroke-linejoin="round"><!-- construction: crane, blueprint with framed house, hard hat -->
+<!-- crane -->
+<g stroke="#6A9082" stroke-width="2">
+  <path d="M392 360V60M408 360V60M392 60h16"/>
+  <path d="M392 80l16 20M408 100l-16 20M392 120l16 20M408 140l-16 20M392 160l16 20M408 180l-16 20M392 200l16 20M408 220l-16 20M392 240l16 20M408 260l-16 20M392 280l16 20M408 300l-16 20M392 320l16 20"/>
+  <path d="M250 60h200M250 76h200M250 60v16M450 60v16M400 30l-150 30M400 30l50 30M400 30v30"/>
+  <path d="M290 76v62"/>
+</g>
+<path d="M282 138h16v14h-16z" fill="#FFFFFF" stroke="#466359" stroke-width="2"/>
+<!-- blueprint sheet -->
+<rect x="40" y="150" width="300" height="210" fill="#F0F4F2" stroke="#466359" stroke-width="2"/>
+<g stroke="#6A9082" stroke-width="1" opacity=".45">
+  <path d="M40 180h300M40 210h300M40 240h300M40 270h300M40 300h300M40 330h300M70 150v210M100 150v210M130 150v210M160 150v210M190 150v210M220 150v210M250 150v210M280 150v210M310 150v210"/>
+</g>
+<!-- framed house drawn on the plan -->
+<g stroke="#466359" stroke-width="2.4">
+  <path d="M100 330V250l80-56 80 56v80z" fill="#FFFFFF"/>
+  <path d="M100 250h160M140 330v-80M180 330v-80M220 330v-80M100 290h160"/>
+  <path d="M140 250l40-28 40 28"/>
+</g>
+<path d="M160 330v-34h40v34" stroke="#F36334" stroke-width="2.4"/>
+<!-- dimension line -->
+<g stroke="#6A9082" stroke-width="1.6"><path d="M100 346h160M100 340v12M260 340v12"/></g>
+<!-- hard hat -->
+<g stroke="#466359" stroke-width="2.4">
+  <path d="M286 150a42 42 0 0 1 84 0" fill="#FFFFFF"/>
+  <path d="M276 150h104v12H276z" fill="#F36334" stroke="#F36334"/>
+  <path d="M328 108v42M308 116v34M348 116v34"/>
+</g></svg>
