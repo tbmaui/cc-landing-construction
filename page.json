@@ -1,0 +1,14 @@
+{
+  "page": "Construction",
+  "repository": "tbmaui/cc-landing-construction",
+  "source_file": "CC Construction Page.html",
+  "source_sha256": "54227d4ed7ea59df4cc10492ad7326ee4dfdc96134d48ae3885372f4ab47d060",
+  "wordpress_pattern": "cc-modern/page-industry-construction",
+  "wordpress_status": "validated",
+  "theme_dependency": {
+    "repository": "tbmaui/complete-controller-modern-theme",
+    "minimum_reviewed_version": "1.3.13"
+  },
+  "review_date": "2026-11-10",
+  "prototype_repository": null
+}
